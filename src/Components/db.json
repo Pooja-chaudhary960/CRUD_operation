@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Pooja",
+      "place": "Dang",
+      "phone": "9812876542"
+    },
+    {
+      "id": "2",
+      "name": "Punam",
+      "place": "Kathmandu",
+      "phone": "9825675643"
+    },
+    {
+      "id": "3",
+      "name": "Pustika",
+      "place": "Bhaktapur",
+      "phone": "9825675567"
+    },
+    {
+      "id": "4",
+      "name": "Ram",
+      "place": "Kirtipur",
+      "phone": "9825675667"
+    },
+    {
+      "id": "5",
+      "name": "Shyam ",
+      "place": "Butwal",
+      "phone": "9812840077"
+    }
+  ]
+}

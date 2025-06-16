@@ -1,0 +1,48 @@
+
+
+h2 {
+  text-align: center;
+  color: #5a3d8e;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+input[type="text"] {
+
+  width: 40%;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.errorMsg {
+  color: red;
+  font-size: 0.9em;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-right: 10px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-save {
+  background-color: #5a3d8e;
+  color: white;
+}
+
+.btn-back {
+  background-color: #e74c3c;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}
